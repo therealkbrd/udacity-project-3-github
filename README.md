@@ -6,15 +6,21 @@
 ### Project Title
 Third project on Udacity
 
-### Description
-This project It's a practical part of using Git, Version Control, which can show what learned from Udacity and am I can create by myself local repository, how I'm good in using commands like "git clone", "git push", etc.
+### General Description
+This project It's a practical part of using Git, Version Control, which can show what I learned from Udacity and am I can create by myself local repository, how I'm good in using commands like "git clone", "git push", etc.
 
 ### Files used
 .gitignore;
 README.md;
 project.py
 
+### Used Programs
+1. Atom (text editor) or any other
+2. Terminal
+
+### Links For Download
+You can download Atom here - https://github.com/atom/atom/releases/tag/v1.63.1
 
 ### Credits
-https://www.udacity.com/;
-https://github.com/
+https://www.udacity.com/ - it's an online platform with a lot of paid or free courses;
+https://github.com/ -  it's an online software development platform, which used for storing, tracking, and collaborating on software projects
