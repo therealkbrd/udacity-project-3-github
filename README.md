@@ -4,13 +4,17 @@
 19.12.22
 
 ### Project Title
-Third project from Udacity
+Third project on Udacity
 
 ### Description
-Only for completing tasks
+This project It's a practical part of using Git, Version Control, which can show what learned from Udacity and am I can create by myself local repository, how I'm good in using commands like "git clone", "git push", etc.
 
 ### Files used
-All files which you can see here
+.gitignore;
+README.md;
+project.py
+
 
 ### Credits
-https://www.udacity.com/ https://github.com/
+https://www.udacity.com/;
+https://github.com/
