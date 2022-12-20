@@ -3,48 +3,15 @@
 ### Date created
 19.12.22
 
-<<<<<<< HEAD
-### Project Title
-Third project from Udacity
-||||||| merged common ancestors
-### Project Title
-Replace the Project Title
-=======
 ### Project Overview
 A Python project to explore bike share systems.
->>>>>>> documentation
 
-<<<<<<< HEAD
-### Description
-Just for completing task
-||||||| merged common ancestors
-### Description
-Describe what your project is about and what it does
-=======
 ### General Description
 This Python project explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
->>>>>>> documentation
 
-<<<<<<< HEAD
-### Files used
-All files which you can see here
-||||||| merged common ancestors
-### Files used
-Include the files used
-=======
 ### Project Details
 Program asks user to to specify a city (chicago, new york or washington), month (february or all), and day of the week (sunday or all) to analyze. After choosing the correct city, month, and day the program will print the following information:
->>>>>>> documentation
 
-<<<<<<< HEAD
-### Credits
-https://www.udacity.com/
-https://github.com/
-||||||| merged common ancestors
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-=======
 * most popular month
 * most popular day of week
 * most popular hour of day
@@ -91,4 +58,3 @@ Numpy - https://numpy.org/
 ### Credits
 https://www.udacity.com/ - it's an online platform with a lot of paid or free courses;
 https://github.com/ -  it's an online software development platform, which used for storing, tracking, and collaborating on software projects
->>>>>>> documentation
